@@ -1,0 +1,18 @@
+.header{
+    background-color: darkcyan;
+    color:black;
+    justify-content: center;
+
+}
+
+body{
+    background-color: #00CCFF;
+    padding: 3px;
+}
+
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    border:solid;
+}
